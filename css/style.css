@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(93, 93, 255);
+    font: normal 15pt arial;
+}
+header{
+  
+    text-align: center;
+    color: aliceblue;
+}
+section{
+   
+    background-color: aliceblue;
+    border-radius: 8px;
+    padding: 10px;
+    width: 50%;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.459);
+}
+footer{
+    text-align: center;
+    margin-top: 20px;
+    color: aliceblue;
+   
+}
+
+div{
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+}
+
+#btn2{
+    margin: 8px;
+}
